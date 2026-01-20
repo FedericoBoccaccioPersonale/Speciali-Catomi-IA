@@ -2,7 +2,7 @@
 https://federicoboccaccio.wordpress.com/catomi-ia/
 
 # Importante
-⚠️ I file "Source code (.zip)" e "Source code (.tar.gz)" sono generati automaticamente da GitHub e **non contengono il programma**.  
+⚠️ I file "Source code (.zip)" e "Source code (.tar.gz)" sono generati automaticamente da GitHub e **contengono la versione WebGL che difficilmente funzionerà senza un server**.  
 Scarica solo i file **rar** e **apk** per ottenere la versione funzionante.  
 Nota la presenza del **manuale**.
 
